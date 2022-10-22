@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamil Sachintha</h1>
-<h3 align="center">A passionate Computer Engineering undergraduate from Sri Lanka</h3>
+<h2>Computer Engineering Undergraduate (Final Year)</h2>
+<h3 align="center">I am passionate about developing full-stack applications and designing UI/UX and have a good point of view on colors.</h3>
 
 - 🌱 I’m currently learning **React**
 
