@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chamil Sachintha and I'm an Intern Software Engineer.</h2>
+<h2 align="left">Hi👋! My name is Chamil Sachintha and I'm a Computer Engineering undergraduate.</h2>
 <h3 align="left">I am passionate about developing full-stack, front-end applications and designing UI/UX and have a good point of view on colors.</h3>
 
 ###
